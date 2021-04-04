@@ -1,4 +1,4 @@
-//program to print first n elements 6of Fibonacci Series
+//program to print first n elements of Fibonacci Series
 import java.util.Scanner;
 public class FibonacciSeries {
     public static void main(String []args){
